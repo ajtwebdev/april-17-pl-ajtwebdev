@@ -11,7 +11,7 @@ export default function Contact() {
   return (
     <Layout>
       <SEO
-        title="Contact Us - Call Your Professional Landscapers in Calgary"
+        title="Contact Us - Call Your Professional Landscapers in Calgary "
         description="Project Landscape is happy to offer year-round landscaping services, from lawn care to snow removal. Contact us today to schedule your services."
       />
       <Banner
@@ -20,7 +20,7 @@ export default function Contact() {
         subheader="contact us here"
         description="At Project Landscape Ltd., our premier outdoor landscaping services will increase the value and overall aesthetic of your home. We use quality brands, and unique products to help keep your lawn healthy, and your home looking incredible. This means an overall better living experience for you and your family."
       />
-      <FormContact title="Contact" />
+      <FormContact title="Contact Us" />
       <PortfolioBanner />
     </Layout>
   )
